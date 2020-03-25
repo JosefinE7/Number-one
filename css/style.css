@@ -1,3 +1,7 @@
+body {
+    color: #ffffff;
+}
+
 h1 {
     text-align: center;
 }
@@ -9,6 +13,10 @@ h1 {
     background-position: center;
     height: 500px;
     width: 50%;
+}
+
+.form-text {
+    color: #ffffff;
 }
 
 
